@@ -1,1 +1,1 @@
-http://www.myapp/heroku.com
+https://puhelinluettelo1234.herokuapp.com/api/persons
